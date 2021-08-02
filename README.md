@@ -1,6 +1,7 @@
 ### Olá!!! Eu sou o Cleber dos Santos Vieira 👋
-🌱 Angular
-🔭 Microservices em Java
+- 🌱 Estou atualmente estudando Angular, Jekins e Typescript.
+- 🔭 Atualmente trabalho com Microservices em Java/Node.Js
+- 📫 Contate-me no email: cleberdossantos.vieira@gmail.com
 
 <!--
 **clebersv-dev/clebersv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
