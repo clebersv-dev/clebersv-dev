@@ -1,5 +1,5 @@
 ### Olá!!! Eu sou o Cleber dos Santos Vieira 👋
-- 🌱 Estou atualmente estudando Angular, Jekins e Typescript.
+- 🌱 Estou atualmente cursando MBA em Full Stack Developer na Impacta.
 - 🔭 Atualmente trabalho com Microservices em Java/Node.Js
 - 📫 Contate-me no email: cleberdossantos.vieira@gmail.com
 
